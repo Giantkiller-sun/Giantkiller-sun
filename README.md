@@ -1,0 +1,2 @@
+# Giantkiller-sun
+learn python
